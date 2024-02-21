@@ -1,0 +1,15 @@
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/bin/Debug/net6.0/test
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/bin/Debug/net6.0/test.deps.json
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/bin/Debug/net6.0/test.runtimeconfig.json
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/bin/Debug/net6.0/test.dll
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/bin/Debug/net6.0/test.pdb
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.csproj.AssemblyReference.cache
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.AssemblyInfoInputs.cache
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.AssemblyInfo.cs
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.csproj.CoreCompileInputs.cache
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.dll
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/refint/test.dll
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.pdb
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/test.genruntimeconfig.cache
+/Users/poorna/Documents/USF/DIS/Class Projects/test/test/obj/Debug/net6.0/ref/test.dll
